@@ -137,7 +137,7 @@ Recall maximization was emphasized due to the high cost of undetected fraud.
 
 ## 👨‍💻 Author
 
-**Armaan Ranjan**  
+**Asutosh Ranjan**  
 B.Tech CSE (Data Science)  
 SRM Institute of Science and Technology
 
